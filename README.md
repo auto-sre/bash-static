@@ -1,6 +1,6 @@
 # bash-static
 
-Because we all need the most static bash we can get in this world.
+Because we all need the most static bash we can get in this  world.
 
 ## Getting
 
